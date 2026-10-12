@@ -272,7 +272,3 @@ Idea(idea=["Kebab Warszawa Stare Miasto", "Tania pizza Mokotow"])
 - **Language:** the agent prompt and intent extraction are in English, while the sample queries in the guidelines are in Polish. Queries in either language should work, but this has not been formally evaluated.
 
 ---
-
-## Licence
-
-No licence file has been added to the repository yet.

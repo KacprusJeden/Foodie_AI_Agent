@@ -3,6 +3,7 @@ name = "foodie-ai-agent"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
+license = { text = "MIT" }
 authors = [
     { name = "KacprusJeden", email = "kacper050710@gmail.com" }
 ]
