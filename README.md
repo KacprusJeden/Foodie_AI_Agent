@@ -205,9 +205,8 @@ Foodie_AI_Agent/
 ├── AGENTS.md                     # project guidelines (Polish)
 ├── CLAUDE.md                     # project guidelines for Claude Code (Polish)
 ├── pyproject.toml                # project metadata, dependencies, pytest and build config
-├── uv.lock                       # locked dependency versions
-├── .python-version               # Python version (3.14)
-└── databricks.yml               # Databricks Asset Bundle definition
+├── uv.lock                       # locked dependency versions 
+└── .python-version               # Python version (3.14)
 ```
 
 ### Module responsibilities
